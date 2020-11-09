@@ -1,0 +1,8 @@
+<view class="title" bindtap="handleClick">
+   <text>小</text> 
+   <text>当</text> 
+   <text>家</text> 
+   <view class="top" bindtap="handleMapClick"> 今日立冬</view>
+</view>
+
+

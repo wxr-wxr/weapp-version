@@ -1,0 +1,28 @@
+.title{
+    
+    width: 100%;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+}
+text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+text:nth-child(1){
+    color: #9bc9d6;
+}
+text:nth-child(2){
+    color: #d73f3c;
+    padding: 0 4px;
+}
+text:nth-child(3){
+    color: #df8c7c;
+}
+.top{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
